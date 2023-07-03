@@ -1,0 +1,12 @@
+/home/arthon/Documents/Flutter_Projects/build/linux/x64/debug/bundle/food_recipe_app
+/home/arthon/Documents/Flutter_Projects/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/arthon/Documents/Flutter_Projects/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/arthon/Documents/Flutter_Projects/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/arthon/Documents/Flutter_Projects/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/arthon/Documents/Flutter_Projects/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/arthon/Documents/Flutter_Projects/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/arthon/Documents/Flutter_Projects/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/arthon/Documents/Flutter_Projects/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/arthon/Documents/Flutter_Projects/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/arthon/Documents/Flutter_Projects/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/arthon/Documents/Flutter_Projects/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
